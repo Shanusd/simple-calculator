@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 250px;
+    height: 400px;
+    justify-self: center;
+    margin-top: 50px;
+}
